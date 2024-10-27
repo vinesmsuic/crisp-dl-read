@@ -37,10 +37,17 @@ Date: 26/07/2024 ~ 13/09/2024
 | W5: Nonnegative Matrix Factorization                                                                                            | Edisy (Southampton)     | [Google Drive](https://drive.google.com/file/d/1Njl7cXvawyL8otMolbVybsKRfBKcOVSt/view?usp=sharing)                                                      | N/A   |
 | W6: Retrieval Augmented Generation for Knowledge Intensive NLP                                                                  | Cyrus Hei Chan (HKU)    | [Google Drive](https://docs.google.com/presentation/d/1Gomp54uK5lrrJBWoddk2QCcHRCX5pDSe/edit?usp=sharing&ouid=100207347832006797459&rtpof=true&sd=true) | N/A   |
 | W7: Improve Mathematical Reasoning in Language Models by Automated Process Supervision                                          | CY (SUTD)               |                                                                                                                                                         | N/A   |
-| W8: Adding Conditional Control to Text-to-Image Diffusion Models                                                                | Johnny (CUHK)           |                                                                                                                                                         | N/A   |
+| W8: Adding Conditional Control to Text-to-Image Diffusion Models                                                                | Johnny (CUHK)           |  [Google Drive](https://docs.google.com/presentation/d/1XVhLl9xOSGCBGbpNoJrEUAnAtPp8ynwe/edit?usp=sharing&ouid=110294029403844114502&rtpof=true&sd=true) | https://youtu.be/sa3XCrmf0UM  |
 
 
 # Cycle 1
 
 Date: 20/09/2024 ~ 
 
+| Topic                                                                                                                           | Presenter               | Slides                                                                                                                                                  | Video |
+|---------------------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+| W1: Transparent Image Layer Diffusion using Latent Transparency | Ethan   | N/A | N/A   |
+| W2: Tropical Geometry of Deep Neural Networks   | Edisy  | N/A   | N/A   |
+| W3: Towards Robust Control in Visual Generation and Manipulation | Max | N/A | N/A   |
+| W4: Denoising Diffusion Restoration Models  | Aaron | N/A  | N/A   |
+| W5: MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts  | Johnny (CUHK)    | [Google Drive](https://docs.google.com/presentation/d/15rBpc6iNoI-9u_WHpg2_xfKFIcTZ6YWj/edit?usp=sharing&ouid=110294029403844114502&rtpof=true&sd=true)   | https://youtu.be/4i54NHUQ5vs  |
