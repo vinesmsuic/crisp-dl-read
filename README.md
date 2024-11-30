@@ -44,10 +44,17 @@ Date: 26/07/2024 ~ 13/09/2024
 
 Date: 20/09/2024 ~ 
 
-| Topic                                                                                                                           | Presenter               | Slides                                                                                                                                                  | Video |
-|---------------------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
-| W1: Transparent Image Layer Diffusion using Latent Transparency | Ethan   | N/A | N/A   |
-| W2: Tropical Geometry of Deep Neural Networks   | Edisy  | N/A   | N/A   |
-| W3: Towards Robust Control in Visual Generation and Manipulation | Max | N/A | N/A   |
-| W4: Denoising Diffusion Restoration Models  | Aaron | N/A  | N/A   |
-| W5: MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts  | Johnny (CUHK)    | [Google Drive](https://docs.google.com/presentation/d/15rBpc6iNoI-9u_WHpg2_xfKFIcTZ6YWj/edit?usp=sharing&ouid=110294029403844114502&rtpof=true&sd=true)   | https://youtu.be/4i54NHUQ5vs  |
+
+markdown
+Copy code
+| Topic                                                                                                  | Presenter            | Slides                                                                                                       | Video                                   |
+|--------------------------------------------------------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| W1: Transparent Image Layer Diffusion using Latent Transparency                                       | Ethan                | N/A                                                                                                          | N/A                                     |
+| W2: Tropical Geometry of Deep Neural Networks                                                         | Edisy                | N/A                                                                                                          | N/A                                     |
+| W3: Towards Robust Control in Visual Generation and Manipulation                                      | Max                  | N/A                                                                                                          | N/A                                     |
+| W4: Denoising Diffusion Restoration Models                                                            | Aaron                | N/A                                                                                                          | N/A                                     |
+| W5: MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts                  | Johnny (CUHK)        | [Google Drive](https://docs.google.com/presentation/d/15rBpc6iNoI-9u_WHpg2_xfKFIcTZ6YWj/edit?usp=sharing)    | [YouTube](https://youtu.be/4i54NHUQ5vs)|
+| W6: PaliGemma: A Versatile 3B VLM for Transfer                                                        | Ray                  | N/A                                                                                                          | N/A                                     |
+| W7: FunSearch: Mathematical Discovery from Program Search with LLMs                                   | Jonathan             | N/A                                                                                                          | N/A                                     |
+| W8: Training Diffusion Models with Reinforcement Learning                                             | KJ                   | N/A                                                                                                          | N/A                                     |
+| W9: Graph Machine Learning in the Era of Large Language Models (LLMs)                                | Arthur               | N/A                                                                                                          | N/A                                     |
