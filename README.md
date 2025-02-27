@@ -24,9 +24,28 @@ Presentation Guidelines
 
 Host: Max Ku (https://kuwingfung.github.io/)
 
+# Cycle 2 
+
+Date: 20/12/2024 ~ 14/03/2025 (Every Friday 9pm EST)
+
+| Topic                                                                                                  | Presenter            | Slides                                                                                                       | Video                                   |
+|--------------------------------------------------------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| W1 (20/12): Diffusion-Reward Adversarial Imitation Learning                                          | Tag                  | N/A                                                                                                          | N/A                                     |
+| W2 (3/1): Camera Settings as Tokens: Modeling Photography on Latent Diffusion Models                 | Ethan                | N/A                                                                                                          | N/A                                     |
+| W3 (10/1): Chain-of-Thought Prompting Elicits Reasoning in Large Language Models                     | Jonathan             | N/A                                                                                                          | N/A                                     |
+| W4 (17/1): DailyDilemmas: Revealing Value Preferences of LLMs with Quandaries of Daily Life          | KellyC               | N/A                                                                                                          | N/A                                     |
+| W5 (24/1): [NEW!] Research Brainstorm Meeting                                                        | -                    | N/A                                                                                                          | N/A                                     |
+| **(31/1) Lunar New Year - No Meeting**                                                               |                      |                                                                                                              |                                         |
+| W6 (7/2): Planning-Oriented Autonomous Driving                                                       | Cyrus                | N/A                                                                                                          | N/A                                     |
+| W7 (14/2): **-Canceled-**                                                                            |                      |                                                                                                              |                                         |
+| W8 (21/2): DeepSeek-V3 Technical Report                                                             | Chiao                | N/A                                                                                                          | N/A                                     |
+| W9 (28/2): DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning       | Ray                  | N/A                                                                                                          | N/A                                     |
+| W10 (7/3): Mastering Board Games by External and Internal Planning with Language Models             | Walker               | N/A                                                                                                          | N/A                                     |
+| W11 (14/3): Transformer-Squared: Self-adaptive LLMs                                                 | Ivan Lam             | N/A                                                                                                          | N/A                                     |
+
 # Cycle 1
 
-Date: 20/09/2024 ~ 13/12/2024
+Date: 20/09/2024 ~ 13/12/2024 (Every Friday 9pm EST)
 
 | Topic                                                                                                  | Presenter            | Slides                                                                                                       | Video                                   |
 |--------------------------------------------------------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------|
