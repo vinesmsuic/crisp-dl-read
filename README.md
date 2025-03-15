@@ -41,7 +41,7 @@ Date: 20/12/2024 ~ 14/03/2025 (Every Friday 9pm EST)
 | W8 (21/2): DeepSeek-V3 Technical Report                                                             | Chiao (Tesla)               | N/A                                                                                                          | N/A                                     |
 | W9 (28/2): DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning       | Ray (Appier)                  | N/A                                                                                                          | N/A                                     |
 | W10 (7/3): Mastering Board Games by External and Internal Planning with Language Models             | Walker (Qualcomm)               | N/A                                                                                                          | N/A                                     |
-| W11 (14/3): Transformer-Squared: Self-adaptive LLMs                                                 | Ivan Lam (CUHK)             | N/A                                                                                                          | N/A                                     |
+| W11 (14/3): Transformer-Squared: Self-adaptive LLMs                                                 | Ivan Lam (CUHK)             | [Google Drive ](https://drive.google.com/file/d/1l9rm7ESh0MmJEgRxR5KntlS83gR1iTmn/view?usp=sharing)                                                                                                       | N/A                                     |
 
 # Cycle 1
 
