@@ -30,17 +30,6 @@ Host: Max Ku (https://kuwingfung.github.io/)
 Date: 28/03/2025 - 02/05/2025 (Every Friday 10pm ET)
 
 
-Week 1 (28/3) : Koios | TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters
-Week 2 (4/4) : Thomas | TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem Understanding
-Week 3 (11/4) : Andrew | Generative Classifiers Avoid Shortcut Solutions
-Week 4 (18/4) : Ethan | Research Brainstorm Meeting: PhotoBench
-Week 5 : (25/4) ChengYi | Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models
-Week 6 : (2/5) Max | Packing Input Frame Context in Next-Frame Prediction Models for Video Generation
-
-# Cycle 2 
-
-Date: 20/12/2024 ~ 14/03/2025 (Every Friday 9pm EST)
-
 | Topic                                                                                                  | Presenter            | Slides                                                                                                       | Video                                   |
 |--------------------------------------------------------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------|
 | W1 (28/3): TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters                 | Koios (NTHU)               | N/A                                                                                                          | N/A                                     |
@@ -49,6 +38,25 @@ Date: 20/12/2024 ~ 14/03/2025 (Every Friday 9pm EST)
 | W4 (18/4): Research Brainstorm Meeting: PhotoBench                                                     | [Ethan](https://ishengfang.github.io/) (Academia Sinica)               | N/A                                                                                                          | N/A                                     |
 | W5 (25/4): Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models         | ChengYi (Academia Sinica)             | N/A                                                                                                          | N/A                                     |
 | W6 (2/5): Packing Input Frame Context in Next-Frame Prediction Models for Video Generation             | [Max Ku](https://kuwingfung.github.io/) (UWaterloo)                 | N/A                                                                                                          | [YouTube](https://youtu.be/JoaxtcfBGvc?si=YSnUyRQPadXtNuNu)                                     |
+
+# Cycle 2 
+
+Date: 20/12/2024 ~ 14/03/2025 (Every Friday 9pm EST)
+
+| Topic                                                                                                  | Presenter            | Slides                                                                                                       | Video                                   |
+|--------------------------------------------------------------------------------------------------------|----------------------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| W1 (20/12): Diffusion-Reward Adversarial Imitation Learning                                          | [Shih-Yu Lai](https://www.linkedin.com/in/shih-yu-lai?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)                | N/A                                                                                                          | N/A                                     |
+| W2 (3/1): Camera Settings as Tokens: Modeling Photography on Latent Diffusion Models                 | [Ethan](https://ishengfang.github.io/) (Academia Sinica)                | N/A                                                                                                          | N/A                                     |
+| W3 (10/1): Chain-of-Thought Prompting Elicits Reasoning in Large Language Models                     | Jonathan (UWaterloo)             | N/A                                                                                                          | N/A                                     |
+| W4 (17/1): DailyDilemmas: Revealing Value Preferences of LLMs with Quandaries of Daily Life          | KellyC (UWash)              | N/A                                                                                                          | N/A                                     |
+| W5 (24/1): [NEW!] Research Brainstorm Meeting                                                        | -                    | N/A                                                                                                          | N/A                                     |
+| **(31/1) Lunar New Year - No Meeting**                                                               |                      |                                                                                                              |                                         |
+| W6 (7/2): Planning-Oriented Autonomous Driving                                                       | Cyrus (HKU)               | N/A                                                                                                          | N/A                                     |
+| W7 (14/2): **-Canceled-**                                                                            |                      |                                                                                                              |                                         |
+| W8 (21/2): DeepSeek-V3 Technical Report                                                             | Chiao (Tesla)               | N/A                                                                                                          | N/A                                     |
+| W9 (28/2): DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning       | Ray (Appier)                  | N/A                                                                                                          | N/A                                     |
+| W10 (7/3): Mastering Board Games by External and Internal Planning with Language Models             | Walker (Qualcomm)               | N/A                                                                                                          | N/A                                     |
+| W11 (14/3): Transformer-Squared: Self-adaptive LLMs                                                 | Ivan Lam (CUHK)             | [Google Drive ](https://drive.google.com/file/d/1l9rm7ESh0MmJEgRxR5KntlS83gR1iTmn/view?usp=sharing)                                                                                                       | N/A                                     |
 
 # Cycle 1
 
