@@ -24,6 +24,19 @@ Presentation Guidelines
 
 Host: Max Ku (https://kuwingfung.github.io/)
 
+
+# Cycle 3 
+
+Date: 28/03/2025 - 02/05/2025 (Every Friday 10pm ET)
+
+
+Week 1 (28/3) : Koios | TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters
+Week 2 (4/4) : Thomas | TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem Understanding
+Week 3 (11/4) : Andrew | Generative Classifiers Avoid Shortcut Solutions
+Week 4 (18/4) : Ethan | Research Brainstorm Meeting: PhotoBench
+Week 5 : (25/4) ChengYi | Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models
+Week 6 : (2/5) Max | Packing Input Frame Context in Next-Frame Prediction Models for Video Generation
+
 # Cycle 2 
 
 Date: 20/12/2024 ~ 14/03/2025 (Every Friday 9pm EST)
