@@ -1,4 +1,4 @@
-# Crisp Deep Learning Paper Threading Group
+# Guided Generation Group Reading Sessions (formerly Crisp Deep Learning Paper Threading Group)
 
 ## Introduction
 
